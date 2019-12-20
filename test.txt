@@ -8,3 +8,6 @@ Javascript
 Angular
 Python
 Appium
+
+
+Merging the 2 files
