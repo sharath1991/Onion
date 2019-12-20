@@ -3,3 +3,8 @@ Automation
 IOT
 Selenium
 Rest API
+RPA
+Javascript
+Angular
+Python
+Appium
